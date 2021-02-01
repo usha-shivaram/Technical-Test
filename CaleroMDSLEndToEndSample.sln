@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaleroMDSLEndToEndSample.Tests", "CaleroMDSLEndToEndSample\CaleroMDSLEndToEndSample.Tests.csproj", "{17D21F1B-F567-4175-8934-B48F9E7175B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaleroMDSLEndToEndSample.PageObjects", "CaleroMDSLEndToEndSample.PageObjects\CaleroMDSLEndToEndSample.PageObjects.csproj", "{8CB8C141-7416-47DE-9790-F345BBB049A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D21F1B-F567-4175-8934-B48F9E7175B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D21F1B-F567-4175-8934-B48F9E7175B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D21F1B-F567-4175-8934-B48F9E7175B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D21F1B-F567-4175-8934-B48F9E7175B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB8C141-7416-47DE-9790-F345BBB049A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB8C141-7416-47DE-9790-F345BBB049A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB8C141-7416-47DE-9790-F345BBB049A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB8C141-7416-47DE-9790-F345BBB049A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBF3550D-7DC2-46E7-82DB-19CD0BC89FA8}
+	EndGlobalSection
+EndGlobal
